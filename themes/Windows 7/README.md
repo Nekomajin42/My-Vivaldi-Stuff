@@ -2,7 +2,7 @@
 
 A native-ish theme using some of the default system colors Windows 7.
 
-![Screenshot](screenshot.png)
+![Screenshot](windows_7_screenshot.png)
 
 ## Theme settings
 
@@ -17,6 +17,6 @@ A native-ish theme using some of the default system colors Windows 7.
   * Transparent Tabs: `[✓]`
 * Corner Roudning: `3px`
 
-You can download this theme in [JSON](theme.json), which is compatible with [luetage](https://github.com/luetage)'s [import/export mod](https://forum.vivaldi.net/topic/33154/import-and-export-themes).
+You can download this theme in [JSON](windows_7_theme.json), which is compatible with [luetage](https://github.com/luetage)'s [import/export mod](https://forum.vivaldi.net/topic/33154/import-and-export-themes).
 
 The screenshot uses the default Windows 7 wallpaper called "Harmony".
