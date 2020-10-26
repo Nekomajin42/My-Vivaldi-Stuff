@@ -2,6 +2,8 @@
 
 A theme using the default dark, light and accent colors of Windows 10.
 
+![Screenshot](windows_10_screenshot.png)
+
 ## Theme settings
 
 - Colors
